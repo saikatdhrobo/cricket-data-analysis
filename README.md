@@ -8,7 +8,7 @@ End-to-end analysis of **ODI cricket data** including player performance, match 
 - **Top Debut Players**: Find the top 5 debut players per country.
 - **Stadium Popularity**: Visualize the most popular stadiums for ODIs.
 - **Career Analysis**: In-depth analysis of individual player careers (e.g., runs, wickets, batting average).
--  and many more....
+and many more....
 
 ## Tech Used
 - **Python**: Data manipulation and analysis.
